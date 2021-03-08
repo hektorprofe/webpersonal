@@ -1,2 +1,3 @@
-# web-personal-curso-django-2
-Repositorio para almacenar la web que hemos creado en el curso Django 2
+# Web Personal del Curso de Django
+
+Proyecto revisado y funcionando perfectamente con Django 3.1
