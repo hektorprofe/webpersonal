@@ -1,6 +1,6 @@
 # Web Personal del Curso de Django
 
-Proyecto revisado y funcionando perfectamente con Python 3.9 y Django 3.1
+Proyecto revisado y funcionando perfectamente con Python 3.10.2 y Django 4.0.2
 
 ## Instalación con Pipenv
 
